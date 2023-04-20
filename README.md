@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**skeltonmod/skeltonmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+           .        .
+           \'.____.'/       **IT'S DANGEROUS OUT THERE**
+          __'-.  .-'__                         .--.
+          '_i:'oo':i_'---...____...----i"""-.-'.-"\\
+            /._  _.\       :       /   '._   ;/    ;'-._
+           (  o  o  )       '-.__.'       '. '.     '-."
+            '-.__.-' _.--.                 '-.:
+             : '-'  /     ;   _..--,  /       ;
+             :      '-._.-'  ;     ; :       :
+              :  `      .'    '-._.' :      /
+               \  :    /    ____....--\    :
+                '._\  :"""""    '.     !.   :
+                 : |: :           'www'| \ '| **MOOOOOOOOO**
+                 | || |              : |  | :
+                 | || |             .' !  | |
+                .' !| |            /__I   | |
+               /__I.' !                  .' !
+                  /__I                  /__I   
+           
